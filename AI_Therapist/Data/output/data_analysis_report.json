@@ -1,0 +1,64 @@
+{
+  "total_conversations": 1300,
+  "emotion_distribution": {
+    "anxiety": 354,
+    "anger": 111,
+    "fear": 95,
+    "depression": 334,
+    "sadness": 308,
+    "disgust": 40,
+    "shame": 42,
+    "nervousness": 13,
+    "pain": 1,
+    "jealousy": 1,
+    "guilt": 1
+  },
+  "problem_distribution": {
+    "job crisis": 280,
+    "problems with friends": 179,
+    "ongoing depression": 351,
+    "breakup with partner": 239,
+    "academic pressure": 156,
+    "conflict with parents": 10,
+    "Procrastination": 13,
+    "Alcohol Abuse": 12,
+    "Issues with Parents": 8,
+    "Sleep Problems": 28,
+    "Appearance Anxiety": 12,
+    "School Bullying": 2,
+    "Issues with Children": 10
+  },
+  "dialog_length_stats": {
+    "mean": 29.51153846153846,
+    "std": 10.152939207747332,
+    "min": 16,
+    "max": 120,
+    "median": 27.0
+  },
+  "strategy_distribution": {
+    "Question": 3801,
+    "Others": 3341,
+    "Providing Suggestions": 2954,
+    "Affirmation and Reassurance": 2827,
+    "Self-disclosure": 1713,
+    "Reflection of feelings": 1436,
+    "Information": 1215,
+    "Restatement or Paraphrasing": 1089
+  },
+  "feedback_stats": {
+    "mean": 4.298789220153626,
+    "count": 7681,
+    "distribution": {
+      "5": 3993,
+      "4": 2315,
+      "3": 1121,
+      "2": 179,
+      "1": 73
+    }
+  },
+  "emotion_improvement_stats": {
+    "mean": 1.991304347826087,
+    "positive_count": 1150,
+    "total_count": 1150
+  }
+}

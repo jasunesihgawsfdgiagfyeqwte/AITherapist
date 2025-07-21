@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "i",
+    "pos": "NN",
+    "freq": 33300
+  },
+  {
+    "word": "you",
+    "pos": "PRP",
+    "freq": 23894
+  },
+  {
+    "word": "to",
+    "pos": "TO",
+    "freq": 22342
+  },
+  {
+    "word": "a",
+    "pos": "DT",
+    "freq": 13676
+  },
+  {
+    "word": "and",
+    "pos": "CC",
+    "freq": 13215
+  },
+  {
+    "word": "that",
+    "pos": "IN",
+    "freq": 12993
+  },
+  {
+    "word": "the",
+    "pos": "DT",
+    "freq": 12310
+  },
+  {
+    "word": "it",
+    "pos": "PRP",
+    "freq": 11797
+  },
+  {
+    "word": "is",
+    "pos": "VBZ",
+    "freq": 9071
+  },
+  {
+    "word": "have",
+    "pos": "JJ",
+    "freq": 8541
+  },
+  {
+    "word": "do",
+    "pos": "NNS",
+    "freq": 7367
+  },
+  {
+    "word": "of",
+    "pos": "IN",
+    "freq": 7160
+  },
+  {
+    "word": "for",
+    "pos": "IN",
+    "freq": 6936
+  },
+  {
+    "word": "are",
+    "pos": "VBP",
+    "freq": 6780
+  },
+  {
+    "word": "my",
+    "pos": "PRP$",
+    "freq": 6524
+  },
+  {
+    "word": "in",
+    "pos": "IN",
+    "freq": 5720
+  },
+  {
+    "word": "your",
+    "pos": "PRP$",
+    "freq": 5705
+  },
+  {
+    "word": "with",
+    "pos": "IN",
+    "freq": 5416
+  },
+  {
+    "word": "can",
+    "pos": "MD",
+    "freq": 5158
+  },
+  {
+    "word": "be",
+    "pos": "VB",
+    "freq": 4950
+  },
+  {
+    "word": "but",
+    "pos": "CC",
+    "freq": 4923
+  },
+  {
+    "word": "me",
+    "pos": "PRP",
+    "freq": 4566
+  },
+  {
+    "word": "not",
+    "pos": "RB",
+    "freq": 4561
+  },
+  {
+    "word": "so",
+    "pos": "RB",
+    "freq": 4166
+  },
+  {
+    "word": "this",
+    "pos": "DT",
+    "freq": 3774
+  },
+  {
+    "word": "am",
+    "pos": "VBP",
+    "freq": 3773
+  },
+  {
+    "word": "like",
+    "pos": "IN",
+    "freq": 3701
+  },
+  {
+    "word": "about",
+    "pos": "IN",
+    "freq": 3531
+  },
+  {
+    "word": "how",
+    "pos": "WRB",
+    "freq": 3425
+  },
+  {
+    "word": "on",
+    "pos": "IN",
+    "freq": 3399
+  },
+  {
+    "word": "just",
+    "pos": "RB",
+    "freq": 3368
+  },
+  {
+    "word": "what",
+    "pos": "WP",
+    "freq": 3326
+  },
+  {
+    "word": "will",
+    "pos": "MD",
+    "freq": 3171
+  },
+  {
+    "word": "feel",
+    "pos": "VB",
+    "freq": 3065
+  },
+  {
+    "word": "think",
+    "pos": "VB",
+    "freq": 2970
+  },
+  {
+    "word": "help",
+    "pos": "NN",
+    "freq": 2957
+  },
+  {
+    "word": "good",
+    "pos": "VB",
+    "freq": 2771
+  },
+  {
+    "word": "there",
+    "pos": "EX",
+    "freq": 2768
+  },
+  {
+    "word": "time",
+    "pos": "NN",
+    "freq": 2682
+  },
+  {
+    "word": "if",
+    "pos": "IN",
+    "freq": 2590
+  },
+  {
+    "word": "was",
+    "pos": "VBD",
+    "freq": 2562
+  },
+  {
+    "word": "they",
+    "pos": "PRP",
+    "freq": 2419
+  },
+  {
+    "word": "get",
+    "pos": "VBP",
+    "freq": 2419
+  },
+  {
+    "word": "out",
+    "pos": "RP",
+    "freq": 2417
+  },
+  {
+    "word": "know",
+    "pos": "JJ",
+    "freq": 2397
+  },
+  {
+    "word": "yes",
+    "pos": "RB",
+    "freq": 2367
+  },
+  {
+    "word": "would",
+    "pos": "MD",
+    "freq": 2335
+  },
+  {
+    "word": "or",
+    "pos": "CC",
+    "freq": 2333
+  },
+  {
+    "word": "as",
+    "pos": "IN",
+    "freq": 2318
+  },
+  {
+    "word": "really",
+    "pos": "RB",
+    "freq": 2294
+  },
+  {
+    "word": "been",
+    "pos": "VBN",
+    "freq": 2288
+  },
+  {
+    "word": "he",
+    "pos": "PRP",
+    "freq": 2284
+  },
+  {
+    "word": "at",
+    "pos": "IN",
+    "freq": 2279
+  },
+  {
+    "word": "we",
+    "pos": "PRP",
+    "freq": 2185
+  },
+  {
+    "word": "all",
+    "pos": "DT",
+    "freq": 1991
+  },
+  {
+    "word": "she",
+    "pos": "PRP",
+    "freq": 1960
+  },
+  {
+    "word": "very",
+    "pos": "VBD",
+    "freq": 1883
+  },
+  {
+    "word": "her",
+    "pos": "PRP",
+    "freq": 1879
+  },
+  {
+    "word": "some",
+    "pos": "DT",
+    "freq": 1847
+  },
+  {
+    "word": "well",
+    "pos": "RB",
+    "freq": 1801
+  },
+  {
+    "word": "now",
+    "pos": "RB",
+    "freq": 1782
+  },
+  {
+    "word": "up",
+    "pos": "RP",
+    "freq": 1684
+  },
+  {
+    "word": "work",
+    "pos": "NN",
+    "freq": 1638
+  },
+  {
+    "word": "when",
+    "pos": "WRB",
+    "freq": 1615
+  },
+  {
+    "word": "thank",
+    "pos": "NN",
+    "freq": 1610
+  },
+  {
+    "word": "has",
+    "pos": "VBZ",
+    "freq": 1608
+  },
+  {
+    "word": "too",
+    "pos": "RB",
+    "freq": 1603
+  },
+  {
+    "word": "more",
+    "pos": "RBR",
+    "freq": 1592
+  },
+  {
+    "word": "from",
+    "pos": "IN",
+    "freq": 1587
+  },
+  {
+    "word": "try",
+    "pos": "NN",
+    "freq": 1521
+  },
+  {
+    "word": "people",
+    "pos": "NNS",
+    "freq": 1510
+  },
+  {
+    "word": "them",
+    "pos": "PRP",
+    "freq": 1508
+  },
+  {
+    "word": "could",
+    "pos": "MD",
+    "freq": 1497
+  },
+  {
+    "word": "no",
+    "pos": "RB",
+    "freq": 1493
+  },
+  {
+    "word": "things",
+    "pos": "NNS",
+    "freq": 1485
+  },
+  {
+    "word": "job",
+    "pos": "NN",
+    "freq": 1426
+  },
+  {
+    "word": "right",
+    "pos": "RB",
+    "freq": 1400
+  },
+  {
+    "word": "going",
+    "pos": "VBG",
+    "freq": 1369
+  },
+  {
+    "word": "hard",
+    "pos": "RB",
+    "freq": 1365
+  },
+  {
+    "word": "did",
+    "pos": "VBD",
+    "freq": 1330
+  },
+  {
+    "word": "want",
+    "pos": "VB",
+    "freq": 1317
+  },
+  {
+    "word": "one",
+    "pos": "CD",
+    "freq": 1303
+  },
+  {
+    "word": "much",
+    "pos": "JJ",
+    "freq": 1295
+  },
+  {
+    "word": "doing",
+    "pos": "VBG",
+    "freq": 1293
+  },
+  {
+    "word": "any",
+    "pos": "DT",
+    "freq": 1289
+  },
+  {
+    "word": "better",
+    "pos": "JJR",
+    "freq": 1282
+  },
+  {
+    "word": "great",
+    "pos": "JJ",
+    "freq": 1279
+  },
+  {
+    "word": "because",
+    "pos": "IN",
+    "freq": 1275
+  },
+  {
+    "word": "talk",
+    "pos": "NN",
+    "freq": 1265
+  },
+  {
+    "word": "friends",
+    "pos": "NNS",
+    "freq": 1261
+  },
+  {
+    "word": "need",
+    "pos": "VBP",
+    "freq": 1231
+  },
+  {
+    "word": "him",
+    "pos": "PRP",
+    "freq": 1229
+  },
+  {
+    "word": "feeling",
+    "pos": "VBG",
+    "freq": 1223
+  },
+  {
+    "word": "had",
+    "pos": "VBD",
+    "freq": 1196
+  },
+  {
+    "word": "make",
+    "pos": "VBN",
+    "freq": 1172
+  },
+  {
+    "word": "go",
+    "pos": "VB",
+    "freq": 1167
+  },
+  {
+    "word": "see",
+    "pos": "JJ",
+    "freq": 1152
+  },
+  {
+    "word": "understand",
+    "pos": "JJ",
+    "freq": 1147
+  },
+  {
+    "word": "maybe",
+    "pos": "RB",
+    "freq": 1141
+  },
+  {
+    "word": "way",
+    "pos": "NN",
+    "freq": 1130
+  },
+  {
+    "word": "take",
+    "pos": "NN",
+    "freq": 1128
+  },
+  {
+    "word": "lot",
+    "pos": "NN",
+    "freq": 1119
+  },
+  {
+    "word": "also",
+    "pos": "RB",
+    "freq": 1114
+  },
+  {
+    "word": "thanks",
+    "pos": "VBZ",
+    "freq": 1093
+  },
+  {
+    "word": "sure",
+    "pos": "JJ",
+    "freq": 1088
+  },
+  {
+    "word": "should",
+    "pos": "MD",
+    "freq": 1066
+  },
+  {
+    "word": "hello",
+    "pos": "VB",
+    "freq": 1057
+  },
+  {
+    "word": "today",
+    "pos": "NN",
+    "freq": 1055
+  },
+  {
+    "word": "day",
+    "pos": "NN",
+    "freq": 1033
+  },
+  {
+    "word": "other",
+    "pos": "JJ",
+    "freq": 1031
+  },
+  {
+    "word": "an",
+    "pos": "DT",
+    "freq": 1013
+  },
+  {
+    "word": "something",
+    "pos": "NN",
+    "freq": 1012
+  },
+  {
+    "word": "find",
+    "pos": "VBP",
+    "freq": 1003
+  },
+  {
+    "word": "hope",
+    "pos": "NN",
+    "freq": 992
+  },
+  {
+    "word": "does",
+    "pos": "VBZ",
+    "freq": 954
+  },
+  {
+    "word": "even",
+    "pos": "RB",
+    "freq": 927
+  },
+  {
+    "word": "sorry",
+    "pos": "VB",
+    "freq": 887
+  },
+  {
+    "word": "situation",
+    "pos": "NN",
+    "freq": 885
+  },
+  {
+    "word": "hear",
+    "pos": "VBP",
+    "freq": 884
+  },
+  {
+    "word": "through",
+    "pos": "IN",
+    "freq": 869
+  },
+  {
+    "word": "family",
+    "pos": "NN",
+    "freq": 868
+  },
+  {
+    "word": "sounds",
+    "pos": "NNS",
+    "freq": 858
+  },
+  {
+    "word": "being",
+    "pos": "VBG",
+    "freq": 849
+  },
+  {
+    "word": "life",
+    "pos": "NN",
+    "freq": 848
+  },
+  {
+    "word": "anything",
+    "pos": "NN",
+    "freq": 846
+  },
+  {
+    "word": "best",
+    "pos": "RBS",
+    "freq": 846
+  },
+  {
+    "word": "able",
+    "pos": "JJ",
+    "freq": 834
+  },
+  {
+    "word": "then",
+    "pos": "RB",
+    "freq": 831
+  },
+  {
+    "word": "yeah",
+    "pos": "VB",
+    "freq": 817
+  },
+  {
+    "word": "friend",
+    "pos": "NN",
+    "freq": 812
+  },
+  {
+    "word": "someone",
+    "pos": "NN",
+    "freq": 794
+  },
+  {
+    "word": "who",
+    "pos": "WP",
+    "freq": 787
+  },
+  {
+    "word": "might",
+    "pos": "MD",
+    "freq": 786
+  },
+  {
+    "word": "new",
+    "pos": "JJ",
+    "freq": 784
+  },
+  {
+    "word": "hi",
+    "pos": "VB",
+    "freq": 777
+  },
+  {
+    "word": "yourself",
+    "pos": "PRP",
+    "freq": 740
+  },
+  {
+    "word": "myself",
+    "pos": "PRP",
+    "freq": 716
+  },
+  {
+    "word": "keep",
+    "pos": "VB",
+    "freq": 693
+  },
+  {
+    "word": "having",
+    "pos": "VBG",
+    "freq": 690
+  },
+  {
+    "word": "back",
+    "pos": "RB",
+    "freq": 686
+  },
+  {
+    "word": "may",
+    "pos": "MD",
+    "freq": 686
+  },
+  {
+    "word": "over",
+    "pos": "VB",
+    "freq": 684
+  },
+  {
+    "word": "sometimes",
+    "pos": "RB",
+    "freq": 682
+  },
+  {
+    "word": "its",
+    "pos": "PRP$",
+    "freq": 661
+  },
+  {
+    "word": "tell",
+    "pos": "NN",
+    "freq": 660
+  },
+  {
+    "word": "idea",
+    "pos": "NN",
+    "freq": 658
+  },
+  {
+    "word": "by",
+    "pos": "IN",
+    "freq": 654
+  },
+  {
+    "word": "year",
+    "pos": "NN",
+    "freq": 644
+  },
+  {
+    "word": "same",
+    "pos": "JJ",
+    "freq": 641
+  },
+  {
+    "word": "long",
+    "pos": "RB",
+    "freq": 636
+  },
+  {
+    "word": "trying",
+    "pos": "VBG",
+    "freq": 633
+  },
+  {
+    "word": "always",
+    "pos": "RB",
+    "freq": 632
+  },
+  {
+    "word": "though",
+    "pos": "IN",
+    "freq": 629
+  },
+  {
+    "word": "thing",
+    "pos": "NN",
+    "freq": 629
+  },
+  {
+    "word": "were",
+    "pos": "VBD",
+    "freq": 627
+  },
+  {
+    "word": "why",
+    "pos": "WRB",
+    "freq": 620
+  },
+  {
+    "word": "only",
+    "pos": "RB",
+    "freq": 618
+  },
+  {
+    "word": "ca",
+    "pos": "MD",
+    "freq": 612
+  },
+  {
+    "word": "before",
+    "pos": "RB",
+    "freq": 609
+  },
+  {
+    "word": "tried",
+    "pos": "JJ",
+    "freq": 603
+  },
+  {
+    "word": "getting",
+    "pos": "VBG",
+    "freq": 603
+  },
+  {
+    "word": "talking",
+    "pos": "VBG",
+    "freq": 600
+  },
+  {
+    "word": "down",
+    "pos": "RP",
+    "freq": 599
+  },
+  {
+    "word": "still",
+    "pos": "RB",
+    "freq": 595
+  },
+  {
+    "word": "oh",
+    "pos": "JJ",
+    "freq": 594
+  },
+  {
+    "word": "support",
+    "pos": "NN",
+    "freq": 591
+  },
+  {
+    "word": "into",
+    "pos": "IN",
+    "freq": 566
+  },
+  {
+    "word": "than",
+    "pos": "IN",
+    "freq": 560
+  },
+  {
+    "word": "give",
+    "pos": "JJ",
+    "freq": 560
+  },
+  {
+    "word": "else",
+    "pos": "JJ",
+    "freq": 560
+  },
+  {
+    "word": "person",
+    "pos": "NN",
+    "freq": 560
+  },
+  {
+    "word": "home",
+    "pos": "NN",
+    "freq": 557
+  },
+  {
+    "word": "problem",
+    "pos": "NN",
+    "freq": 550
+  },
+  {
+    "word": "mind",
+    "pos": "IN",
+    "freq": 547
+  },
+  {
+    "word": "start",
+    "pos": "NN",
+    "freq": 546
+  },
+  {
+    "word": "off",
+    "pos": "IN",
+    "freq": 542
+  },
+  {
+    "word": "again",
+    "pos": "RB",
+    "freq": 539
+  },
+  {
+    "word": "never",
+    "pos": "RB",
+    "freq": 536
+  },
+  {
+    "word": "bad",
+    "pos": "JJ",
+    "freq": 535
+  },
+  {
+    "word": "little",
+    "pos": "JJ",
+    "freq": 535
+  },
+  {
+    "word": "pandemic",
+    "pos": "JJ",
+    "freq": 533
+  },
+  {
+    "word": "his",
+    "pos": "PRP$",
+    "freq": 533
+  },
+  {
+    "word": "years",
+    "pos": "NNS",
+    "freq": 527
+  },
+  {
+    "word": "after",
+    "pos": "IN",
+    "freq": 524
+  },
+  {
+    "word": "okay",
+    "pos": "NN",
+    "freq": 523
+  },
+  {
+    "word": "where",
+    "pos": "WRB",
+    "freq": 521
+  },
+  {
+    "word": "say",
+    "pos": "VB",
+    "freq": 513
+  },
+  {
+    "word": "our",
+    "pos": "PRP$",
+    "freq": 512
+  },
+  {
+    "word": "ok",
+    "pos": "JJ",
+    "freq": 506
+  },
+  {
+    "word": "care",
+    "pos": "NN",
+    "freq": 504
+  },
+  {
+    "word": "many",
+    "pos": "JJ",
+    "freq": 502
+  },
+  {
+    "word": "got",
+    "pos": "VBD",
+    "freq": 494
+  },
+  {
+    "word": "definitely",
+    "pos": "RB",
+    "freq": 489
+  },
+  {
+    "word": "covid",
+    "pos": "VBN",
+    "freq": 484
+  },
+  {
+    "word": "their",
+    "pos": "PRP$",
+    "freq": 483
+  },
+  {
+    "word": "here",
+    "pos": "RB",
+    "freq": 483
+  },
+  {
+    "word": "difficult",
+    "pos": "JJ",
+    "freq": 480
+  },
+  {
+    "word": "happy",
+    "pos": "JJ",
+    "freq": 476
+  },
+  {
+    "word": "let",
+    "pos": "NN",
+    "freq": 474
+  },
+  {
+    "word": "look",
+    "pos": "VB",
+    "freq": 473
+  }
+]

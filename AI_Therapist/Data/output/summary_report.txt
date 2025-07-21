@@ -1,0 +1,28 @@
+ESConv数据处理摘要报告
+==================================================
+
+原始数据量: 1300 条对话
+处理后数据量: 1000 条对话
+平均对话长度: 29.5 轮
+平均LSM分数: 0.1049
+平均质量分数: 0.8521
+
+情绪类型分布:
+  anxiety: 354
+  anger: 111
+  fear: 95
+  depression: 334
+  sadness: 308
+  disgust: 40
+  shame: 42
+  nervousness: 13
+  pain: 1
+  jealousy: 1
+  guilt: 1
+
+支持策略分布 (Top 5):
+  Question: 3801
+  Others: 3341
+  Providing Suggestions: 2954
+  Affirmation and Reassurance: 2827
+  Self-disclosure: 1713
